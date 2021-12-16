@@ -1,0 +1,233 @@
+    1  sudo apt install texmaker
+    2  sudo apt update
+    3  sudo apt install jupyter-notebook
+    4  sudo apt install sagemath
+    5  jupyter notebook
+    6  sudo apt-get install texmaker
+    7  sudo apt-get install sagemath
+    8  zoom
+    9  sudo snap install zoom-client
+   10  zoom-client 
+   11  texmaker
+   12  sudo apt install octave
+   13  udo apt -y install r-base gdebi-core
+   14  sudo apt -y install r-base gdebi-core
+   15  cd Téléchargements/
+   16  ls
+   17  sudo gdebi rstudio-2021.09.0-351-amd64.deb
+   18  ls
+   19  sudo gdebi rstudio-2021.09.0-351-amd64.deb
+   20  cd ..
+   21  ls
+   22  sudo gdebi rstudio-2021.09.0-351-amd64.deb
+   23  cd Téléchargements/
+   24  ls
+   25  sudo gdebi rstudio-2021.09.0-351-amd64.deb
+   26  cd ..
+   27  sudo apt-get update
+   28  cd Téléchargements/
+   29  ls
+   30  sudo gdebi rstudio-2021.09.0-351-amd64.deb
+   31  cd ..
+   32  cd Téléchargements/
+   33  ls
+   34  sudo gdebi rstudio-2021.09.0-351-amd64.deb
+   35  rstudio
+   36  echo "my name is fatima"
+   37  cd shell-lesson
+   38  git clone
+   39  sudo apt install git
+   40  git clone
+   41  ls
+   42  git clone https://github.com/gabayae/friendly-shell-lesson.git shell-lesson
+   43  ls
+   44  cd shell-lesson
+   45  ls
+   46  pwd
+   47  whoami
+   48  mkdir MyMusic
+   49  ¶
+   50  mkdir MyMusic
+   51  mkdir mes docs
+   52  cd . .
+   53  cd ..
+   54  mkdir MyMusic
+   55  ¶
+   56  mkdir MyMusic
+   57  mkdir My music
+   58  rmdir My
+   59  rmdir music
+   60  touch testfile
+   61  rm testfile
+   62  man
+   63  man man
+   64  gedit test
+   65  nano test
+   66  cat test 
+   67  mkdir dossier1
+   68  ls
+   69  cp test dosssier1/
+   70  cp test dossier1
+   71  cp test dossier1/
+   72  cd ..
+   73  mkdir dossier2
+   74  cd
+   75  mkdir test2.txt
+   76  mv test2.txt dossier1/
+   77  cd
+   78  mkdir simplestat
+   79  cd simplestat
+   80  ls
+   81  git init
+   82  ls
+   83  ls -a
+   84  ls -A
+   85  cd .git/
+   86  ls
+   87  gedit description
+   88  cd ..
+   89  q
+   90  cd ..
+   91  touch README.md
+   92  git status
+   93  touch README .md
+   94  git status
+   95  git add README.md
+   96  cd simplestat/
+   97  git status
+   98  touch README .md
+   99  git status
+  100  git add README.MD
+  101  cd simplestat/
+  102  git status
+  103  git add README.md
+  104  touch README.MD
+  105  git status
+  106  git add README.md
+  107  git add README.MD
+  108  git status
+  109  git log
+  110  gitb commit .ma "first commit"
+  111  git commit -m "first commit"
+  112  git config --global user.name""
+  113  git config --global user.email"fatimata.dia@aims-senegal.org"
+  114  git commit -m "first commit"
+  115  git config --global user.email "fatimata.dia@aims-senegal.org"
+  116  git config --global user.name "fatima-dia"
+  117  git commit -m "fisrt commit"
+  118  git log
+  119  git branch
+  120  git branch add_stat
+  121  git branch
+  122  git checkout add_stat
+  123  git branch
+  124  ls
+  125  cd unix
+  126  mkdir data
+  127  mv data unix
+  128  mv foo2.txt data
+  129  mkdir new
+  130  mv new unix
+  131  rm data
+  132  rm new
+  133  rmdir
+  134  rmdir new
+  135  cd
+  136  rmdir new
+  137  cd unix
+  138  rmdir new
+  139  rm new
+  140  touch new
+  141  rm new
+  142  rmdir new
+  143  cd
+  144  rmdir unix
+  145  cd unix
+  146  rmdir unix
+  147  rmdir new
+  148  mv new
+  149  rmdir new
+  150  ls
+  151  cd
+  152  rmdir unix
+  153  cd unix
+  154  rmdir unix
+  155  cd unix
+  156  rmdir new
+  157  cd unix
+  158  cd
+  159  cd unix
+  160  rmdir unix
+  161  rm foo.txt
+  162  cd
+  163  rmdir unix
+  164  ls
+  165  mkdir unix
+  166  touch foo.txt
+  167  mv foo.txt unix
+  168  cp foo.txt foo-copy.txt
+  169  cd
+  170  cp foo.txt foo-copy.txt
+  171  cd unix
+  172  cp foo.txt foo-copy.txt
+  173  mv foo-copy.txt foo2.txt
+  174  mkdir data
+  175  mv foo2.txt data
+  176  mkdir new
+  177  mv foo2.txt new
+  178  cd unix
+  179  cd
+  180  cd unix
+  181  cd data
+  182  mv foo2.txt new
+  183  cd new
+  184  cd
+  185  mv foo2.txt new
+  186  mv foo2 new
+  187  cd
+  188  cd ..
+  189  cd unix
+  190  cd
+  191  cd unix
+  192  cd data
+  193  rm new
+  194  cd
+  195  cd unix
+  196  cp foo.txt foo-copy.txt
+  197  mv foo-copy.txt foo2.txt
+  198  mv foo2.txt data
+  199  mv foo2.txt new
+  200  cd data
+  201  mv foo2.txt new
+  202  cd ..
+  203  mv foo2.txt data
+  204  cd data
+  205  rm new
+  206  cd
+  207  cd unix
+  208  rmdir data
+  209  rmdir new
+  210  rm foo.txt
+  211  cd
+  212  rmdir unix
+  213  ls
+  214  kmdir unix
+  215  cd
+  216  ls
+  217  mkdir unix
+  218  cd
+  219  ls
+  220  mkdir unix
+  221  cd unix
+  222  touch foo.txt
+  223  cp foo.txt foo-copy.txt
+  224  mv foo-copy.txt foo2.txt
+  225  mkdir data
+  226  mv foo2.txt data
+  227  mkdir new
+  228  mv data/foo2.txt new
+  229  mv new/foo2.txt foo-old.txt
+  230  rm foo-old.txt
+  231  rmdir new
+  232  cd
+  233  history >> exo1.txt
