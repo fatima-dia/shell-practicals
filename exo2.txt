@@ -1,0 +1,14 @@
+    1  ##What is the option to "ls" to list all files? Try it in your home directory.
+    2  ## la commande 'ls -a' permet de lister tous les fichiers
+    3  ls -a
+    4  ##Which files do you see now that you don’t see with "ls" alone?
+    5  ## on voit les fichiers .md, .Rdata,... qu'on ne voyait pas avec 'ls' seulement
+    6  ##What is the option to "ls" to list all files in all subdirectories. Try it.
+    7  ## On utilise la commande "ls -l -R" 
+    8  ls -l -R
+    9  ##What is the command to count lines, words and characters in a file?
+   10  ## On utilise la commande "wc"
+   11  wc exo1.txt
+   12  ##How do you make this command display only the number of lines?
+   13  ## On utilise la commande "wc -l"
+   14  wc -l exo1.txt
